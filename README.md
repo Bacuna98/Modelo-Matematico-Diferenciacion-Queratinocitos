@@ -19,8 +19,7 @@ El modelo fue calibrado con datos experimentales y permite analizar el efecto de
 **Sábana de salud (p53 vs Ca e Inf):**
 ![Sabana de salud](imagenes/sabana_Np63.png)
 
-**Validación experimental:**
-![TDM vs IL4](imagenes/tdm_il4.png)
+
 
 ---
 
