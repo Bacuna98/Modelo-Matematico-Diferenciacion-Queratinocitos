@@ -1,3 +1,13 @@
+<header>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_UTFSM.png" width=200 alt="UTFSM" align="left"/>
+<img src="./images/dmat.png" alt="DMAT" align="right"/>
+</header>
+</br></br></br></br></br>
+
+</br>
+</br>
+
+
 # Modelo Matemático de la Diferenciación de Queratinocitos
 
 Este repositorio contiene el trabajo realizado para el curso **Laboratorio de Modelación II (MAT-283)**, cuyo objetivo fue desarrollar un modelo matemático basado en ecuaciones diferenciales ordinarias (EDOs) no lineales para estudiar la diferenciación de queratinocitos y los factores que afectan la homeostasis de la epidermis.
